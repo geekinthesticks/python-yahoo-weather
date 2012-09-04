@@ -1,0 +1,16 @@
+* Using the Yahoo Weather RSS Feed.
+This program shows how you can use Python to get weather information
+from the Yahoo RSS need. Note this example uses and undocumented
+Yahoo url that returns five days of weather, whereas the official url
+only returns three days of weather.
+
+For more information see that Yahoo developer documentation at
+http://developer.yahoo.com/weather/.
+
+
+The example program has the location hard coded into it. Information
+on Yahoo location codes can be found at
+http://edg3.co.uk/snippets/weather-location-codes/united-kingdom/ (UK
+only) and
+http://edg3.co.uk/snippets/weather-location-codes/united-kingdom/
+(international).
