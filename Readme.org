@@ -12,5 +12,5 @@ The example program has the location hard coded into it. Information
 on Yahoo location codes can be found at
 http://edg3.co.uk/snippets/weather-location-codes/united-kingdom/ (UK
 only) and
-http://edg3.co.uk/snippets/weather-location-codes/united-kingdom/
+http://edg3.co.uk/snippets/weather-location-codes/
 (international).
