@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+		<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+			<channel>
+		
+<title>Yahoo! Weather - Market Drayton, UK</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Market_Drayton__UK/*http://weather.yahoo.com/forecast/UKXX0718_c.html</link>
+<description>Yahoo! Weather for Market Drayton, UK</description>
+<language>en-us</language>
+<lastBuildDate>Tue, 04 Sep 2012 3:50 pm BST</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Market Drayton" region=""   country="UK"/>
+<yweather:units temperature="C" distance="km" pressure="mb" speed="km/h"/>
+<yweather:wind chill="17"   direction="330"   speed="19.31" />
+<yweather:atmosphere humidity="63"  visibility="9.99"  pressure="1015.92"  rising="0" />
+<yweather:astronomy sunrise="6:27 am"   sunset="7:49 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+</image>
+<item>
+<title>Conditions for Market Drayton, UK at 3:50 pm BST</title>
+<geo:lat>52.9</geo:lat>
+<geo:long>-2.48</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Market_Drayton__UK/*http://weather.yahoo.com/forecast/UKXX0718_c.html</link>
+<pubDate>Tue, 04 Sep 2012 3:50 pm BST</pubDate>
+<yweather:condition  text="Partly Cloudy"  code="30"  temp="17"  date="Tue, 04 Sep 2012 3:50 pm BST" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/30.gif"/><br />
+<b>Current Conditions:</b><br />
+Partly Cloudy, 17 C<BR />
+<BR /><b>Forecast:</b><BR />
+Tue - Clear. High: 18 Low: 9<br />
+Wed - Mostly Sunny. High: 18 Low: 8<br />
+Thu - Partly Cloudy. High: 21 Low: 8<br />
+Fri - Partly Cloudy. High: 21 Low: 12<br />
+Sat - Partly Cloudy. High: 23 Low: 12<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Market_Drayton__UK/*http://weather.yahoo.com/forecast/UKXX0718_c.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+<yweather:forecast day="Tue" date="4 Sep 2012" low="9" high="18" text="Clear" code="31" />
+<yweather:forecast day="Wed" date="5 Sep 2012" low="8" high="18" text="Mostly Sunny" code="34" />
+<yweather:forecast day="Thu" date="6 Sep 2012" low="8" high="21" text="Partly Cloudy" code="30" />
+<yweather:forecast day="Fri" date="7 Sep 2012" low="12" high="21" text="Partly Cloudy" code="30" />
+<yweather:forecast day="Sat" date="8 Sep 2012" low="12" high="23" text="Partly Cloudy" code="30" />
+<guid isPermaLink="false">UKXX0718_2012_09_08_7_00_BST</guid>
+</item>
+</channel>
+</rss>
+
+<!-- api10.weather.ch1.yahoo.com Tue Sep  4 15:29:46 PST 2012 -->
