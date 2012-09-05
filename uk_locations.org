@@ -1,0 +1,2000 @@
+* List of UK Locations for Yahoo Weather.
+This list was obtained from
+http://edg3.co.uk/snippets/weather-location-codes/united-kingdom/
+
+
+#+begin_example
+UKXX0001, Aberdeen
+UKXX0002, Abingdon
+UKXX0003, Airdrie
+UKXX0004, Altrincham
+UKXX0005, Ashford
+UKXX0006, Ayr
+UKXX0007, Banchory
+UKXX0008, Bangor
+UKXX0009, Barnsley
+UKXX0010, Barry
+UKXX0011, Basingstoke
+UKXX0012, Bath
+UKXX0013, Batley
+UKXX0014, Bedford
+UKXX0015, Belfast
+UKXX0016, Bellshill
+UKXX0017, Birkenhead
+UKXX0018, Birmingham
+UKXX0019, Blackpool
+UKXX0020, Bolton
+UKXX0021, Bournemouth
+UKXX0022, Bracknell
+UKXX0023, Bradford
+UKXX0024, Bridlington
+UKXX0025, Bristol
+UKXX0026, Bromsgrove
+UKXX0027, Burton upon Trent
+UKXX0028, Cambridge
+UKXX0029, Canterbury
+UKXX0030, Cardiff
+UKXX0031, Chelmsford
+UKXX0032, Cheltenham
+UKXX0033, Chester
+UKXX0034, Chesterfield
+UKXX0035, Clydebank
+UKXX0036, Coatbridge
+UKXX0037, Colchester
+UKXX0038, Coventry
+UKXX0039, Dalkeith
+UKXX0040, Derby
+UKXX0041, Doncaster
+UKXX0042, Dover
+UKXX0043, Dronfield
+UKXX0044, Dudley
+UKXX0045, Dundee
+UKXX0046, Dunfermline
+UKXX0047, Durham
+UKXX0048, Dyce
+UKXX0049, East Kilbride
+UKXX0050, East Midlands
+UKXX0051, Eastleigh
+UKXX0052, Edinburgh
+UKXX0053, Ellon
+UKXX0054, Exeter
+UKXX0055, Falkirk
+UKXX0056, Fareham
+UKXX0057, Farnborough
+UKXX0058, Folkestone
+UKXX0059, Foveran
+UKXX0060, Gateshead
+UKXX0061, Glasgow
+UKXX0062, Gloucester
+UKXX0063, Great Yarmouth
+UKXX0064, Grimsby
+UKXX0065, Guernsey Island
+UKXX0066, Hamilton
+UKXX0067, Hartlepool
+UKXX0068, Havant
+UKXX0069, Hounslow
+UKXX0070, Huddersfield
+UKXX0071, Inverurie
+UKXX0072, Ipswich
+UKXX0073, Kidderminster
+UKXX0074, Kilmarnock
+UKXX0075, Kingston upon Hull
+UKXX0076, Kingswood
+UKXX0077, Larne
+UKXX0078, Leeds
+UKXX0079, Leicester
+UKXX0080, Leith
+UKXX0081, Lerwick
+UKXX0082, Lisburn
+UKXX0083, Liverpool
+UKXX0084, Livingston
+UKXX0085, London
+UKXX0086, Londonderry
+UKXX0087, Long Eaton
+UKXX0088, Luton
+UKXX0089, MacClesfield
+UKXX0090, Maidenhead
+UKXX0091, Maidstone
+UKXX0092, Manchester
+UKXX0093, Middlesbrough
+UKXX0094, Mildenhall
+UKXX0095, Motherwell
+UKXX0096, Musselburgh
+UKXX0097, Newbury
+UKXX0098, Newcastle
+UKXX0099, Newport
+UKXX0100, Newtownabbey
+UKXX0101, North Berwick
+UKXX0102, Northampton
+UKXX0103, Norwich
+UKXX0104, Nottingham
+UKXX0105, Oldham
+UKXX0106, Oxford
+UKXX0107, Paisley
+UKXX0108, Penarth
+UKXX0109, Penicuik
+UKXX0110, Peterborough
+UKXX0111, Peterhead
+UKXX0112, Plymouth
+UKXX0113, Poole
+UKXX0114, Port Talbot
+UKXX0115, Portsmouth
+UKXX0116, Ramsgate
+UKXX0117, Reading
+UKXX0118, Reigate
+UKXX0119, Rickmansworth
+UKXX0120, Rochdale
+UKXX0121, Rotherham
+UKXX0122, Rumney
+UKXX0123, Rutherglen
+UKXX0124, Saint Anne/Alderney Island
+UKXX0125, Saint Aubin/Jersey Island
+UKXX0126, Saint Austell
+UKXX0127, Saint Helens
+UKXX0128, Saint Peter Port
+UKXX0129, Salford
+UKXX0130, Saltash
+UKXX0131, Scarborough
+UKXX0132, Scunthorpe
+UKXX0133, Sheffield
+UKXX0134, Shipley
+UKXX0135, Slough
+UKXX0136, Smethwick
+UKXX0137, South Shields
+UKXX0138, Southampton
+UKXX0139, Southport
+UKXX0140, Stockport
+UKXX0141, Stockton-on-Tees
+UKXX0142, Stoke on Trent
+UKXX0143, Stonehaven
+UKXX0144, Sumburgh
+UKXX0145, Sunderland
+UKXX0146, Swansea
+UKXX0147, Swindon
+UKXX0148, Tamworth
+UKXX0149, Tavistock
+UKXX0150, Torquay
+UKXX0151, Trowbridge
+UKXX0152, Wakefield
+UKXX0153, Warrington
+UKXX0154, Weybridge
+UKXX0155, Whitstable
+UKXX0156, Widnes
+UKXX0157, Winchester
+UKXX0158, Windsor
+UKXX0159, Wolverhampton
+UKXX0160, Woodbridge
+UKXX0161, Worcester
+UKXX0162, York
+UKXX0164, Kirkwall Airport
+UKXX0165, Stornoway
+UKXX0166, Aviemore
+UKXX0167, Kinloss
+UKXX0168, Tiree
+UKXX0169, Eskdalemuir
+UKXX0170, Leuchars
+UKXX0172, Boulmer
+UKXX0173, Leeming
+UKXX0174, Bridlington Mrsc
+UKXX0175, Valley
+UKXX0176, Waddington
+UKXX0177, Shawbury
+UKXX0178, Wittering
+UKXX0179, Hemsby
+UKXX0180, Aberporth
+UKXX0181, Wattisham
+UKXX0182, Brize Norton
+UKXX0183, Lyneham
+UKXX0184, Manston
+UKXX0185, Camborne
+UKXX0186, Culdrose
+UKXX0187, Saint Mawgan
+UKXX0188, Yeovilton
+UKXX0189, Herstmonceux
+UKXX0190, Hillsborough
+UKXX0191, Saint Helena Island
+UKXX0193, Abersoch
+UKXX0194, Acharn
+UKXX0195, Amesbury
+UKXX0196, Abergwesyn
+UKXX0197, Amlwch
+UKXX0198, Altnaharra
+UKXX0199, Alston
+UKXX0200, Andover
+UKXX0201, Abbotsbury
+UKXX0203, Aberystwyth
+UKXX0204, Aylesbury
+UKXX0205, Bala
+UKXX0206, Brecon
+UKXX0207, Bude
+UKXX0208, Bruton
+UKXX0209, Banbury
+UKXX0210, Bodenham
+UKXX0211, Butter Tubs Pass
+UKXX0212, Bourne
+UKXX0213, Bury St Edmunds
+UKXX0214, Buxton
+UKXX0215, Brighton
+UKXX0216, Bexhill
+UKXX0217, Cairnryan
+UKXX0218, Colwyn Bay
+UKXX0219, Clacton
+UKXX0220, Crew Green
+UKXX0221, Craigencallie
+UKXX0222, Cromer
+UKXX0223, Crewkerne
+UKXX0224, Coleraine
+UKXX0225, Copplestone
+UKXX0226, Carlisle
+UKXX0227, Chivenor
+UKXX0228, Crewe
+UKXX0229, Brawdy
+UKXX0230, Devauden
+UKXX0231, Dunkeswell Arpt
+UKXX0232, Easington
+UKXX0233, Eskmeals
+UKXX0234, Exton
+UKXX0235, Fairlight
+UKXX0236, Ffestiniog
+UKXX0237, Freshwater
+UKXX0238, Glenanne
+UKXX0239, Godalming
+UKXX0240, Glen Orrin
+UKXX0241, Grassington
+UKXX0242, Great Wakering
+UKXX0243, Garvagh
+UKXX0244, Harlow
+UKXX0245, Hereford
+UKXX0246, Holywell
+UKXX0247, Horst Green
+UKXX0248, Hunstanton
+UKXX0249, Hay-On-Wye
+UKXX0250, Inverness
+UKXX0251, Jersey
+UKXX0252, Kirkstone Pass
+UKXX0253, Knighton
+UKXX0254, Kettering
+UKXX0255, Llanidloes
+UKXX0256, Llandudno
+UKXX0257, Leighton Buzzard
+UKXX0258, Lynmouth
+UKXX0259, Llandrindod Wells
+UKXX0260, Littlehampton
+UKXX0261, Lulworth
+UKXX0262, Llanwrtyd Wells
+UKXX0263, Llangadog
+UKXX0264, Llangoed
+UKXX0266, Minehead
+UKXX0267, Milnthorpe
+UKXX0268, Milton Keynes
+UKXX0269, Malvern
+UKXX0270, Monmouth
+UKXX0271, Marham
+UKXX0272, Mablethorpe
+UKXX0273, Merthyr
+UKXX0274, Newhaven
+UKXX0275, North Downs
+UKXX0276, Newark On Trent
+UKXX0278, New Quay
+UKXX0279, Orford
+UKXX0280, Okehampton
+UKXX0281, Ormskirk
+UKXX0282, Preston
+UKXX0283, Princetown
+UKXX0284, Presteigne
+UKXX0285, Perth
+UKXX0286, Penzance
+UKXX0287, Bardesy
+UKXX0288, Raglan
+UKXX0289, Barmouth
+UKXX0290, Redesdale
+UKXX0291, Rhyll
+UKXX0292, Rayleigh
+UKXX0294, Stratford On Avo
+UKXX0295, Snowdon
+UKXX0296, Shrewsbury
+UKXX0297, Shipton
+UKXX0298, Skipton
+UKXX0299, Sandbach
+UKXX0300, Spalding
+UKXX0301, Salisbury
+UKXX0302, Stocks Resvr
+UKXX0303, Scilly
+UKXX0304, Tenby
+UKXX0305, Telford
+UKXX0306, Tunbridge Wells
+UKXX0307, Tonbridge
+UKXX0308, Trostan
+UKXX0309, Taunton
+UKXX0310, Tywyn
+UKXX0311, Wainfleet
+UKXX0312, Whitby
+UKXX0313, Wick
+UKXX0314, Wellington
+UKXX0315, Whitland
+UKXX0316, Welshpool
+UKXX0317, Weymouth
+UKXX0318, Whitehall
+UKXX0319, Warslow
+UKXX0320, Weston-Spr-Mare
+UKXX0321, Weybourne
+UKXX0322, Cottesmore
+UKXX0323, Brighstone
+UKXX0324, Chale
+UKXX0325, Skomer
+UKXX0326, Cardigan Bay
+UKXX0327, Cape Wrath
+UKXX0330, The Little Minch
+UKXX0332, Strait Of Dover
+UKXX0333, Milltimber
+UKXX0334, Peterculter
+UKXX0335, Westhill
+UKXX0336, Fraserburgh
+UKXX0337, Oldbury
+UKXX0338, Peacehaven
+UKXX0339, Holywood
+UKXX0340, Donaghadee
+UKXX0341, Newtownards
+UKXX0342, Comber
+UKXX0343, Ballynahinch
+UKXX0344, Downpatrick
+UKXX0345, Carrickfergus
+UKXX0346, Limavady
+UKXX0347, Caledon
+UKXX0348, Aughnacloy
+UKXX0349, Enniskillen
+UKXX0350, Fivemiletown
+UKXX0351, Clogher
+UKXX0352, Augher
+UKXX0353, Omagh
+UKXX0354, Castlederg
+UKXX0355, Strabane
+UKXX0356, Porthcawl
+UKXX0357, Wallasey
+UKXX0358, Harwich
+UKXX0359, Broadstairs
+UKXX0360, Dumfries
+UKXX0361, Thornhill
+UKXX0362, Sanquhar
+UKXX0363, Dalbeattie
+UKXX0364, Kirkcudbright
+UKXX0365, Castle Douglas
+UKXX0366, Newton Stewart
+UKXX0367, Moffat
+UKXX0368, Lockerbie
+UKXX0369, Annan
+UKXX0370, Langholm
+UKXX0371, Canonbie
+UKXX0372, Gretna
+UKXX0373, Cleethorpes
+UKXX0374, Lyme Regis
+UKXX0375, Dawlish
+UKXX0376, Budleigh Salterton
+UKXX0377, Midhurst
+UKXX0378, Isle of Lewis
+UKXX0379, Isle of Harris
+UKXX0380, Isle of Scalpay
+UKXX0381, Leverburgh
+UKXX0382, Isle of Benbecula
+UKXX0383, Isle of South Uist
+UKXX0384, Isle of Barra
+UKXX0385, Portree
+UKXX0386, Prestwick
+UKXX0387, Cumnock
+UKXX0388, Maybole
+UKXX0389, Girvan
+UKXX0390, Morecambe
+UKXX0391, Carnforth
+UKXX0392, Rhyl
+UKXX0393, Prestatyn
+UKXX0394, Llanfairfechan
+UKXX0395, Penmaenmawr
+UKXX0396, Pwllheli
+UKXX0397, Newbiggin-by-the-Sea
+UKXX0398, Sheringham
+UKXX0399, Lowestoft
+UKXX0400, Campbeltown
+UKXX0401, Isle of Islay
+UKXX0402, Isle of Colonsay
+UKXX0403, Isle of Mull
+UKXX0404, Isle of Iona
+UKXX0405, Isle of Coll
+UKXX0406, Isle of Eigg
+UKXX0407, Isle of Rum
+UKXX0408, Isle of Canna
+UKXX0409, Torpoint
+UKXX0410, Port Isaac
+UKXX0411, Tintagel
+UKXX0412, Southsea
+UKXX0413, Gosport
+UKXX0414, Aberaeron
+UKXX0415, Pembroke Dock
+UKXX0416, Canvey Island
+UKXX0417, Jedburgh
+UKXX0418, Hawick
+UKXX0419, Coldstream
+UKXX0420, Cockburnspath
+UKXX0421, Eyemouth
+UKXX0422, Brixham
+UKXX0423, Dartmouth
+UKXX0424, Newquay
+UKXX0425, Isles of Scilly
+UKXX0426, Guisborough
+UKXX0427, Filey
+UKXX0428, Shetland
+UKXX0429, St Albans
+UKXX0430, Radcliffe
+UKXX0431, St Helier
+UKXX0433, Huntly
+UKXX0434, Bacon's End
+UKXX0435, Bradford-on-Avon
+UKXX0436, Street
+UKXX0437, Cleckheaton
+UKXX0438, Settle
+UKXX0439, Ringwood
+UKXX0440, Swanley
+UKXX0441, Air Balloon Hill
+UKXX0442, Aldwick
+UKXX0443, Dromore
+UKXX0444, Ballyclare
+UKXX0445, Ballymoney
+UKXX0446, Ballycastle
+UKXX0447, Wigton
+UKXX0448, Penrith
+UKXX0449, Cleator
+UKXX0450, Moor Row
+UKXX0451, Cleator Moor
+UKXX0452, Aldham
+UKXX0453, Manningtree
+UKXX0454, Walton on the Naze
+UKXX0455, Belvedere
+UKXX0456, Heanor
+UKXX0457, Spennymoor
+UKXX0458, Barton-upon-Humber
+UKXX0459, Kingswinford
+UKXX0460, Leytonstone
+UKXX0461, Bonnyrigg
+UKXX0462, Tiverton
+UKXX0463, Larbert
+UKXX0464, Alloa
+UKXX0465, Alva
+UKXX0466, Tillicoultry
+UKXX0467, Doune
+UKXX0468, Badminton
+UKXX0469, Haslemere
+UKXX0470, Liss
+UKXX0471, Knaresborough
+UKXX0472, Berkhamsted
+UKXX0473, Amersham
+UKXX0474, High Wycombe
+UKXX0475, Kington
+UKXX0476, Hull
+UKXX0477, Saxmundham
+UKXX0478, Muir of Ord
+UKXX0479, Mauchline
+UKXX0480, Beith
+UKXX0481, Stevenston
+UKXX0482, Esher
+UKXX0483, Ashby-de-la-Zouch
+UKXX0484, Conwy
+UKXX0485, Aby
+UKXX0486, Pudsey
+UKXX0487, Astley
+UKXX0488, Whitefield
+UKXX0489, Old Wolverton
+UKXX0490, Newport Pagnell
+UKXX0491, Ampthill
+UKXX0492, Seven Sisters
+UKXX0493, Cramlington
+UKXX0494, Wylam
+UKXX0495, Morpeth
+UKXX0496, Choppington
+UKXX0497, Wooler
+UKXX0498, Mansfield
+UKXX0499, Hampstead
+UKXX0500, Heywood
+UKXX0501, Johnstone
+UKXX0502, Isle of Bute
+UKXX0503, Tarbert
+UKXX0504, King's Lynn
+UKXX0505, Dalwhinnie
+UKXX0506, Roy Bridge
+UKXX0507, Ballachulish
+UKXX0508, Fowey
+UKXX0509, Binfield
+UKXX0510, Llanarth
+UKXX0511, Saundersfoot
+UKXX0512, Pembroke
+UKXX0513, Stevenage
+UKXX0514, Iver
+UKXX0515, Faringdon
+UKXX0516, Malmesbury
+UKXX0517, Leigh-on-Sea
+UKXX0518, Basildon
+UKXX0519, Hinton St. George
+UKXX0520, Dulverton
+UKXX0521, Watchet
+UKXX0522, Selkirk
+UKXX0523, Mayfield
+UKXX0524, Northolt
+UKXX0525, Driffield
+UKXX0526, Havering
+UKXX0527, Hemel Hempstead
+UKXX0528, Burton-on-Trent
+UKXX0529, Newburn
+UKXX0530, Tyldesley
+UKXX0531, Fleet
+UKXX0532, Kidsgrove
+UKXX0533, Aberlour
+UKXX0534, Welwyn Garden City
+UKXX0535, Warminster
+UKXX0536, Bolton Outlanes
+UKXX0537, Apperley Bridge
+UKXX0538, Parkstone
+UKXX0539, Verwood
+UKXX0540, Lewes
+UKXX0541, Winscombe
+UKXX0542, Castlewellan
+UKXX0543, Banbridge
+UKXX0544, Magherafelt
+UKXX0545, Armagh
+UKXX0546, Cookstown
+UKXX0547, Appleby-in-Westmorland
+UKXX0548, Frizington
+UKXX0549, Treorchy
+UKXX0550, Hengoed
+UKXX0551, Southminster
+UKXX0552, Nuneaton
+UKXX0553, Leamington Spa
+UKXX0554, Swanscombe
+UKXX0555, Carnoustie
+UKXX0556, Newton Aycliffe
+UKXX0557, Retford
+UKXX0558, Clapton
+UKXX0559, Newbridge
+UKXX0560, Kirkliston
+UKXX0561, Dunbar
+UKXX0562, West Calder
+UKXX0563, Barnet
+UKXX0564, Axminster
+UKXX0565, Ilfracombe
+UKXX0566, South Molton
+UKXX0567, Denny
+UKXX0568, Drumchapel
+UKXX0569, Berkeley
+UKXX0570, Northwood
+UKXX0571, Aston Sandford
+UKXX0572, Aston Abbotts
+UKXX0573, Felixstowe
+UKXX0574, Harleston
+UKXX0575, Alness
+UKXX0576, Irvine
+UKXX0577, Darvel
+UKXX0578, Kilbirnie
+UKXX0579, Dunbeath
+UKXX0580, Stromness
+UKXX0581, Lancaster
+UKXX0582, Larkhall
+UKXX0583, Lanark
+UKXX0584, Whetstone
+UKXX0585, Alexandra Palace
+UKXX0586, Wallsend
+UKXX0587, Ryton
+UKXX0588, Prudhoe
+UKXX0589, Ashington
+UKXX0590, Attleborough
+UKXX0591, Hendon
+UKXX0592, Kidlington
+UKXX0593, Lochwinnoch
+UKXX0594, Dalmally
+UKXX0595, Taynuilt
+UKXX0596, Isle of Gigha
+UKXX0597, Isle of Tiree
+UKXX0598, Alyth
+UKXX0599, Aberfeldy
+UKXX0600, Newtonmore
+UKXX0601, Boat of Garten
+UKXX0602, Arisaig
+UKXX0603, Yelverton
+UKXX0604, Padstow
+UKXX0605, Leyland
+UKXX0606, Redhill
+UKXX0607, Upminster
+UKXX0608, Milford Haven
+UKXX0609, Abbots Ann
+UKXX0610, Bucknell
+UKXX0611, Oswestry
+UKXX0612, Highbridge
+UKXX0613, Chard
+UKXX0614, Broseley
+UKXX0615, Battle
+UKXX0616, Paignton
+UKXX0617, Truro
+UKXX0618, Isleworth
+UKXX0619, South Teddington
+UKXX0620, Normanton
+UKXX0621, Broadway
+UKXX0622, Acomb
+UKXX0623, The Potteries
+UKXX0624, Brent
+UKXX0625, Gillingham
+UKXX0626, Bury
+UKXX0627, Telford Dawley
+UKXX0628, Great Sankey
+UKXX0629, Chipping Sodbury
+UKXX0630, Ecclesfield
+UKXX0631, Haywards Heath
+UKXX0632, Ashton-in-Makerfield
+UKXX0633, Strathdon
+UKXX0634, Harpenden
+UKXX0635, Welwyn
+UKXX0636, Alcester
+UKXX0637, Avon Park
+UKXX0638, Bastwell
+UKXX0639, Worthing
+UKXX0640, Arundel
+UKXX0641, Abbots Leigh
+UKXX0642, Maesteg
+UKXX0643, Tonypandy
+UKXX0644, Ingatestone
+UKXX0645, Sawbridgeworth
+UKXX0646, Berden
+UKXX0647, Frinton-on-Sea
+UKXX0648, Clacton-on-Sea
+UKXX0649, Bocking's Elm
+UKXX0650, Whyteleafe
+UKXX0651, Herne Bay
+UKXX0652, Longfield
+UKXX0653, Erith
+UKXX0654, Ripley
+UKXX0655, Swadlincote
+UKXX0656, Belper
+UKXX0657, Catterick Garrison
+UKXX0658, Poplar
+UKXX0659, Kirknewton
+UKXX0660, Walkerburn
+UKXX0661, Fleetwood
+UKXX0662, Barrhead
+UKXX0663, Dumbarton
+UKXX0664, Newent
+UKXX0665, Cranleigh
+UKXX0666, Lightwater
+UKXX0667, Virginia Water
+UKXX0668, Alton
+UKXX0669, Bordon
+UKXX0670, Camberley
+UKXX0671, Ross-on-Wye
+UKXX0672, Nairn
+UKXX0673, Achnasheen
+UKXX0674, Fochabers
+UKXX0675, Addlestone
+UKXX0676, Berriedale
+UKXX0677, Kinbrace
+UKXX0678, Inverkeithing
+UKXX0679, Formby
+UKXX0680, Loughborough
+UKXX0681, Coalville
+UKXX0682, Aberdovey
+UKXX0683, Llwyngwril
+UKXX0684, Dyffryn Ardudwy
+UKXX0685, Cemaes Bay
+UKXX0686, Llangefni
+UKXX0687, Buckingham
+UKXX0688, Archway
+UKXX0689, Blyth
+UKXX0690, Jarrow
+UKXX0691, East Boldon
+UKXX0692, Alnwick
+UKXX0693, Seahouses
+UKXX0694, Bamburgh
+UKXX0695, Crickhowell
+UKXX0696, New Tredegar
+UKXX0697, Chigwell
+UKXX0698, Wymondham
+UKXX0699, Cricklewood
+UKXX0700, Willesden
+UKXX0701, Kilmacolm
+UKXX0702, Wemyss Bay
+UKXX0703, Oban
+UKXX0704, Spean Bridge
+UKXX0705, Wadebridge
+UKXX0706, Bodmin
+UKXX0707, Cowes
+UKXX0708, Betchworth
+UKXX0709, Lingfield
+UKXX0710, Worksop
+UKXX0711, Clarbeston Road
+UKXX0712, Letchworth
+UKXX0713, Ware
+UKXX0714, Glossop
+UKXX0715, Carshalton
+UKXX0716, Llandinam
+UKXX0717, Merriott
+UKXX0718, Market Drayton
+UKXX0719, St. Leonards-on-Sea
+UKXX0720, Saltburn-by-the-Sea
+UKXX0721, Trimdon Station
+UKXX0722, Frodsham
+UKXX0723, Liversedge
+UKXX0724, Droitwich
+UKXX0725, Blackfords
+UKXX0726, Bebington
+UKXX0727, Dewsbury
+UKXX0728, Felling
+UKXX0729, Grantham
+UKXX0730, Shirley
+UKXX0731, Staveley
+UKXX0732, Kirkby-in-Ashfield
+UKXX0733, MacDuff
+UKXX0734, Copt Green
+UKXX0735, Pevensey
+UKXX0736, West Wickham
+UKXX0737, Kirkby Stephen
+UKXX0738, Caerphilly
+UKXX0739, Bishop's Stortford
+UKXX0740, Warlingham
+UKXX0741, Westgate-on-Sea
+UKXX0742, Kenilworth
+UKXX0743, Atherstone
+UKXX0744, Tarporley
+UKXX0745, Dartford
+UKXX0746, Bakewell
+UKXX0747, Houghton le Spring
+UKXX0748, Bedale
+UKXX0749, Brigg
+UKXX0750, Sturminster Newton
+UKXX0751, Leyton
+UKXX0752, Walthamstow
+UKXX0753, South Woodford
+UKXX0754, Humbie
+UKXX0755, Pathhead
+UKXX0756, Waltham Abbey
+UKXX0757, Chulmleigh
+UKXX0758, Torrington
+UKXX0759, Chipping Campden
+UKXX0760, Bagshot
+UKXX0761, Edgware
+UKXX0762, Ledbury
+UKXX0763, Eye
+UKXX0764, Avoch
+UKXX0765, Strathpeffer
+UKXX0766, Lossiemouth
+UKXX0767, Forres
+UKXX0768, Dalry
+UKXX0769, Largs
+UKXX0770, Kingston upon Thames
+UKXX0771, Worcester Park
+UKXX0772, East Molesey
+UKXX0773, Chertsey
+UKXX0774, Tadworth
+UKXX0775, Glenrothes
+UKXX0776, Llangammarch Wells
+UKXX0777, Oakham
+UKXX0778, Corwen
+UKXX0779, Llanerchymedd
+UKXX0780, Chatham
+UKXX0781, Great Linford
+UKXX0782, Olney
+UKXX0783, East Finchley
+UKXX0784, Hornsey
+UKXX0785, Stoke Newington
+UKXX0786, Blaydon-on-Tyne
+UKXX0787, Sutton-in-Ashfield
+UKXX0788, Sleaford
+UKXX0789, Tredegar
+UKXX0790, Ashton-under-Lyne
+UKXX0791, Wallingford
+UKXX0792, Gunnislake
+UKXX0793, Ancton
+UKXX0794, Bembridge
+UKXX0795, Yarmouth
+UKXX0796, Thatcham
+UKXX0797, Romford
+UKXX0798, Abergorlech
+UKXX0799, Morden
+UKXX0800, Stockbridge
+UKXX0801, Brockenhurst
+UKXX0802, Hockley
+UKXX0803, Bishops Castle
+UKXX0804, Montgomery
+UKXX0805, Gordon
+UKXX0806, Falmouth
+UKXX0807, Redruth
+UKXX0808, Wingate
+UKXX0809, Southall
+UKXX0810, Borehamwood
+UKXX0811, Pershore
+UKXX0812, Walsall
+UKXX0813, Bilston
+UKXX0814, Hillingdon
+UKXX0815, Westminster
+UKXX0816, Crawley
+UKXX0817, Darlington
+UKXX0818, Newcastle-under-Lyme
+UKXX0819, Greasby
+UKXX0820, Cumbernauld
+UKXX0821, Wrexham
+UKXX0822, Eccles
+UKXX0823, Chester-le-Street
+UKXX0824, Chadderton
+UKXX0825, Chorley
+UKXX0826, Bentley
+UKXX0827, Bramhall
+UKXX0828, Bromborough
+UKXX0829, Bearsden
+UKXX0830, Newry
+UKXX0831, Maghull
+UKXX0832, Rawtenstall
+UKXX0833, Ballindalloch
+UKXX0834, Banff
+UKXX0835, Acocks Green
+UKXX0836, Blossomfield
+UKXX0837, Rossendale
+UKXX0838, Ambler Thorn
+UKXX0839, Broadstone
+UKXX0840, Wimborne
+UKXX0841, New Milton
+UKXX0842, Orpington
+UKXX0843, Cheddar
+UKXX0844, Frampton Cotterell
+UKXX0845, Bushmills
+UKXX0846, Baldwinholme
+UKXX0847, Deeside
+UKXX0848, Mitcham
+UKXX0849, Congleton
+UKXX0850, Bexley
+UKXX0851, Immingham
+UKXX0852, Gorebridge
+UKXX0853, Winkleigh
+UKXX0854, Holsworthy
+UKXX0855, Lynton
+UKXX0856, Grangemouth
+UKXX0857, Kilsyth
+UKXX0858, Aldershot
+UKXX0859, Windlesham
+UKXX0860, Petworth
+UKXX0861, Liphook
+UKXX0862, Ripon
+UKXX0863, Great Missenden
+UKXX0864, Tring
+UKXX0865, Barking
+UKXX0866, Munlochy
+UKXX0867, Cromarty
+UKXX0868, Tomatin
+UKXX0869, Elgin
+UKXX0870, Chessington
+UKXX0871, Orkney
+UKXX0872, Aigburth
+UKXX0873, Kirkby
+UKXX0874, Penrhyndeudraeth
+UKXX0875, Criccieth
+UKXX0876, Penysarn
+UKXX0877, Wetherby
+UKXX0878, Ilkley
+UKXX0879, Barton Upon Irwell
+UKXX0880, Carrington
+UKXX0881, Bill Street
+UKXX0882, Queenborough
+UKXX0883, Biggar
+UKXX0884, Highgate
+UKXX0885, Southgate
+UKXX0886, Corbridge
+UKXX0887, Newark
+UKXX0888, Towcester
+UKXX0889, Pontypool
+UKXX0890, Walsingham
+UKXX0891, Mossley
+UKXX0892, Littleborough
+UKXX0893, Bishopton
+UKXX0894, Dunoon
+UKXX0895, Swaffham
+UKXX0896, Fort William
+UKXX0897, Callington
+UKXX0898, Hayling Island
+UKXX0899, Chichester
+UKXX0900, Shanklin
+UKXX0901, Ventnor
+UKXX0902, Totland Bay
+UKXX0903, Wokingham
+UKXX0904, East Grinstead
+UKXX0905, Rainham
+UKXX0906, Kelham Island
+UKXX0907, Backmoor
+UKXX0908, Llandovery
+UKXX0909, Newcastle Emlyn
+UKXX0910, Clynderwen
+UKXX0911, Royston
+UKXX0912, Bourne End
+UKXX0913, Banstead
+UKXX0914, Benfleet
+UKXX0915, Adscombe
+UKXX0916, Ilminster
+UKXX0917, Melrose
+UKXX0918, Romney Marsh
+UKXX0919, Winchelsea
+UKXX0920, Perranporth
+UKXX0921, Redcar
+UKXX0922, Sunbury-on-Thames
+UKXX0923, Shepperton
+UKXX0924, Watford
+UKXX0925, Wigan
+UKXX0926, Lambeth
+UKXX0927, Waltham Forest
+UKXX0928, Richmond-upon-Thames
+UKXX0929, Hastings
+UKXX0930, Huyton-with-Roby
+UKXX0931, Pontefract
+UKXX0932, Droylsden
+UKXX0933, Aboyne
+UKXX0934, Bentley Heath
+UKXX0935, Astwood Bank
+UKXX0936, Radstock
+UKXX0937, Allerton
+UKXX0938, Becks
+UKXX0939, Keighley
+UKXX0940, Axbridge
+UKXX0941, Portstewart
+UKXX0942, Cockermouth
+UKXX0943, Pontypridd
+UKXX0944, Pentre
+UKXX0945, Mold
+UKXX0946, Witham
+UKXX0947, Hythe
+UKXX0948, Bedworth
+UKXX0949, Winsford
+UKXX0950, Bexleyheath
+UKXX0951, Montrose
+UKXX0952, Barnard Castle
+UKXX0953, Bridport
+UKXX0954, Bewdley
+UKXX0955, Forest Gate
+UKXX0956, Manor Park
+UKXX0957, Innerleithen
+UKXX0958, West Linton
+UKXX0959, Potters Bar
+UKXX0960, Honiton
+UKXX0961, Umberleigh
+UKXX0962, Tewkesbury
+UKXX0963, Aldsworth
+UKXX0964, Sandhurst
+UKXX0965, Chesham
+UKXX0966, Chalfont St. Giles
+UKXX0967, Leominster
+UKXX0968, Sowerby Bridge
+UKXX0969, Southwold
+UKXX0970, Brandon
+UKXX0971, Bury St. Edmunds
+UKXX0972, Saltcoats
+UKXX0973, New Malden
+UKXX0974, Surbiton
+UKXX0975, Kinross
+UKXX0976, St. Andrews
+UKXX0977, Court Hey
+UKXX0978, Brighton Le Sands
+UKXX0979, Ambleside
+UKXX0980, Hinckley
+UKXX0981, Caernarfon
+UKXX0982, Menai Bridge
+UKXX0983, Holyhead
+UKXX0984, Brynteg
+UKXX0985, Audenshaw
+UKXX0986, Snodland
+UKXX0987, Aylesford
+UKXX0988, Broughton
+UKXX0989, Winchmore Hill
+UKXX0990, Stocksfield
+UKXX0991, Belford
+UKXX0992, Holt
+UKXX0993, North Walsham
+UKXX0994, Mill Hill
+UKXX0995, Woodstock
+UKXX0996, Appin
+UKXX0997, Isle of Jura
+UKXX0998, Dunkeld
+UKXX0999, Glenfinnan
+UKXX1000, Liskeard
+UKXX1001, Adsdean
+UKXX1002, Attercliffe
+UKXX1003, Bradway
+UKXX1004, Aughton
+UKXX1005, Kidwelly
+UKXX1006, Carmarthen
+UKXX1007, Boncath
+UKXX1008, Pencader
+UKXX1009, Fishguard
+UKXX1010, Ascot
+UKXX1011, Tidworth
+UKXX1012, Church Stretton
+UKXX1013, Ludlow
+UKXX1014, Llanbrynmair
+UKXX1015, Langport
+UKXX1016, South Petherton
+UKXX1017, Earlston
+UKXX1018, Etchingham
+UKXX1019, Heathfield
+UKXX1020, Totnes
+UKXX1021, South Brent
+UKXX1022, Abbots Langley
+UKXX1023, Selby
+UKXX1024, Teesside
+UKXX1025, Cannock
+UKXX1026, Carlton
+UKXX1027, Stretford
+UKXX1028, Farnham
+UKXX1029, West Bridgford
+UKXX1030, Heswall
+UKXX1031, Mangotsfield
+UKXX1032, Penwortham
+UKXX1033, Coleshill
+UKXX1034, Bird End
+UKXX1035, Templecombe
+UKXX1036, Blackburn
+UKXX1037, Darwen
+UKXX1038, Lancing
+UKXX1039, Polegate
+UKXX1040, Foots Cray
+UKXX1041, Bishop Sutton
+UKXX1042, Portrush
+UKXX1043, Craigavon
+UKXX1044, Annie Pit
+UKXX1045, Whitehaven
+UKXX1046, Merthyr Tydfil
+UKXX1047, Ongar
+UKXX1048, Maldon
+UKXX1049, Boxted
+UKXX1050, Sudbury
+UKXX1051, Margate
+UKXX1052, Brechin
+UKXX1053, Arbroath
+UKXX1054, Ashbourne
+UKXX1055, Stranraer
+UKXX1056, Ferryhill
+UKXX1057, Blandford Forum
+UKXX1058, East Ham
+UKXX1059, Colinton
+UKXX1060, Broxbourne
+UKXX1061, Sidmouth
+UKXX1062, Colyton
+UKXX1063, Dollar
+UKXX1064, Lochearnhead
+UKXX1065, Alexandria
+UKXX1066, Stroud
+UKXX1067, Woking
+UKXX1068, Stanmore
+UKXX1069, Audley End
+UKXX1070, Gairloch
+UKXX1071, Ullapool
+UKXX1072, Rogart
+UKXX1073, Forsinard
+UKXX1074, Kirkwall
+UKXX1075, Leven
+UKXX1076, Auchtermuchty
+UKXX1077, Croxteth Park
+UKXX1078, Kirkby-in-Furness
+UKXX1079, Melton Mowbray
+UKXX1080, Llangollen
+UKXX1081, Llandudno Junction
+UKXX1082, Arthog
+UKXX1083, Blaenau Ffestiniog
+UKXX1084, Y Felinheli
+UKXX1085, Beaumaris
+UKXX1086, Llanbedrgoch
+UKXX1087, Lincoln
+UKXX1088, Otley
+UKXX1089, Walkden
+UKXX1090, Atherton
+UKXX1091, West Malling
+UKXX1092, Woodside Park
+UKXX1093, Whitley Bay
+UKXX1094, Haltwhistle
+UKXX1095, Abertillery
+UKXX1096, Melton Constable
+UKXX1097, Bungay
+UKXX1098, St. Johns Wood
+UKXX1099, Bicester
+UKXX1100, Renfrew
+UKXX1101, Skelmorlie
+UKXX1102, Gourock
+UKXX1103, Colintraive
+UKXX1104, Delabole
+UKXX1105, Bognor Regis
+UKXX1106, Crowthorne
+UKXX1107, Billingshurst
+UKXX1108, Sydenham
+UKXX1109, Shefford
+UKXX1110, Sutton
+UKXX1111, Shaftesbury
+UKXX1112, Seaham
+UKXX1113, Peterlee
+UKXX1114, Wickford
+UKXX1115, Stoke-on-Trent
+UKXX1116, Ystrad Meurig
+UKXX1117, Stoke-sub-Hamdon
+UKXX1118, Galashiels
+UKXX1119, Much Wenlock
+UKXX1120, Hartfield
+UKXX1121, New Romney
+UKXX1122, Buckfastleigh
+UKXX1123, Billingham
+UKXX1124, Egham
+UKXX1125, Heckmondwike
+UKXX1126, Leigh
+UKXX1127, Camden
+UKXX1128, Merton
+UKXX1129, Arnold
+UKXX1130, Thornton/Cleveleys
+UKXX1131, Totton
+UKXX1132, Farnworth
+UKXX1133, Batchwood
+UKXX1134, Solihull
+UKXX1135, Clitheroe
+UKXX1136, Colne
+UKXX1137, Burnley
+UKXX1138, Christchurch
+UKXX1139, Eastbourne
+UKXX1140, Seaford
+UKXX1141, Shoreham-by-Sea
+UKXX1142, Brampton
+UKXX1143, Keswick
+UKXX1144, Ravenglass
+UKXX1145, Treharris
+UKXX1146, Billericay
+UKXX1147, Anvil Green
+UKXX1148, Newport-on-Tay
+UKXX1149, Northallerton
+UKXX1150, Bishop Auckland
+UKXX1151, Portland
+UKXX1152, Heriot
+UKXX1153, Waltham Cross
+UKXX1154, Hoddesdon
+UKXX1155, Beaworthy
+UKXX1156, Helensburgh
+UKXX1157, Stonehouse
+UKXX1158, Wembley
+UKXX1159, Brighouse
+UKXX1160, Princes Risborough
+UKXX1161, Beverley
+UKXX1162, Hornsea
+UKXX1163, Withernsea
+UKXX1164, Ilford
+UKXX1165, Ruislip
+UKXX1166, Barton Mills
+UKXX1167, Ampton
+UKXX1168, Garve
+UKXX1169, Kyle
+UKXX1170, Plockton
+UKXX1171, Strome Ferry
+UKXX1172, Drumnadrochit
+UKXX1173, Troon
+UKXX1174, Helmsdale
+UKXX1175, Burntisland
+UKXX1176, Lochgelly
+UKXX1177, Kendal
+UKXX1178, Millom
+UKXX1179, Coniston
+UKXX1180, Trefriw
+UKXX1181, Pentraeth
+UKXX1182, Horncastle
+UKXX1183, Woodhall Spa
+UKXX1184, Caldecotte
+UKXX1185, Aspley Guise
+UKXX1186, Wishaw
+UKXX1187, Shotts
+UKXX1188, Boldon Colliery
+UKXX1189, Riding Mill
+UKXX1190, Daventry
+UKXX1191, Brackley
+UKXX1192, Queens Park
+UKXX1193, Bacup
+UKXX1194, Thame
+UKXX1195, Didcot
+UKXX1196, Carterton
+UKXX1197, St. Catherines
+UKXX1198, Lochgilphead
+UKXX1199, Stamford
+UKXX1200, Algarirk
+UKXX1201, Skegness
+UKXX1202, Lochailort
+UKXX1203, Kinlochleven
+UKXX1204, Henley-on-Thames
+UKXX1205, Grays
+UKXX1206, Darfield
+UKXX1207, Burry Port
+UKXX1208, Llandeilo
+UKXX1209, Kilgetty
+UKXX1210, Knebworth
+UKXX1211, Biggleswade
+UKXX1212, Stalybridge
+UKXX1213, Marlborough
+UKXX1214, Pewsey
+UKXX1215, Machynlleth
+UKXX1216, Bridgwater
+UKXX1217, Edenbridge
+UKXX1218, Kingsbridge
+UKXX1219, Marazion
+UKXX1220, St. Ives
+UKXX1221, Staines
+UKXX1222, Ossett
+UKXX1223, Wednesbury
+UKXX1224, Thirsk
+UKXX1225, Alne
+UKXX1226, Wandsworth
+UKXX1227, Haringey
+UKXX1228, Epsom
+UKXX1229, Halesowen
+UKXX1230, Crosby
+UKXX1231, Hoylake
+UKXX1232, Bishopbriggs
+UKXX1233, Insch
+UKXX1234, St. Albans
+UKXX1235, Lemsford
+UKXX1236, Rowley Regis
+UKXX1237, Maney
+UKXX1238, Headless Cross
+UKXX1239, Wells
+UKXX1240, Wincanton
+UKXX1241, Accrington
+UKXX1242, Gaisby
+UKXX1243, Hassocks
+UKXX1244, Chislehurst
+UKXX1245, Maghera
+UKXX1246, Holmrook
+UKXX1247, Newmarket
+UKXX1248, Llantwit Major
+UKXX1249, Pontyclun
+UKXX1250, Dunmow
+UKXX1251, Canes
+UKXX1252, Rugby
+UKXX1253, Middlewich
+UKXX1254, Stanley
+UKXX1255, Gainsborough
+UKXX1256, Barnetby
+UKXX1257, Beaminster
+UKXX1258, Bethnal Green
+UKXX1259, Stratford
+UKXX1260, Braunton
+UKXX1261, Dunblane
+UKXX1262, Callander
+UKXX1263, Thornton-Cleveleys
+UKXX1264, Cirencester
+UKXX1265, Newnham
+UKXX1266, North Ferriby
+UKXX1267, Hebden Bridge
+UKXX1268, Woodford Green
+UKXX1269, Loughton
+UKXX1270, Stowmarket
+UKXX1271, Isle of Skye
+UKXX1272, Strathcarron
+UKXX1273, West Kilbride
+UKXX1274, Isle of Cumbrae
+UKXX1275, Leatherhead
+UKXX1276, Lybster
+UKXX1277, Latheron
+UKXX1278, Brora
+UKXX1279, Kirkcaldy
+UKXX1280, Childwall
+UKXX1281, Sedbergh
+UKXX1282, Grange-over-Sands
+UKXX1283, Ulverston
+UKXX1284, Builth Wells
+UKXX1285, Abergele
+UKXX1286, Bodorgan
+UKXX1287, Dulas
+UKXX1288, Louth
+UKXX1289, Sittingbourne
+UKXX1290, Strathaven
+UKXX1291, Tottenham
+UKXX1292, Regents Park
+UKXX1293, Golders Green
+UKXX1294, Abbey
+UKXX1295, Downham Market
+UKXX1296, Ardler
+UKXX1297, Carrbridge
+UKXX1298, Nethy Bridge
+UKXX1299, Fort Augustus
+UKXX1300, Waterlooville
+UKXX1301, Ryde
+UKXX1302, Sandown
+UKXX1303, Horsham
+UKXX1304, South Ockendon
+UKXX1305, Llanelli
+UKXX1306, Glogue
+UKXX1307, Crymych
+UKXX1308, Buntingford
+UKXX1309, Dukinfield
+UKXX1310, Calne
+UKXX1311, Lyndhurst
+UKXX1312, Fordingbridge
+UKXX1313, Westcliff-on-Sea
+UKXX1314, Southend-on-Sea
+UKXX1315, Nevendon
+UKXX1316, Lauder
+UKXX1317, Berwick-upon-Tweed
+UKXX1318, Rye
+UKXX1319, Hampton
+UKXX1320, Greenford
+UKXX1322, Tenbury Wells
+UKXX1323, Rugeley
+UKXX1324, Redbridge
+UKXX1325, The Medway Towns
+UKXX1326, Southwark
+UKXX1327, Newham
+UKXX1328, Harrogate
+UKXX1329, Beeston
+UKXX1330, Cheshunt
+UKXX1331, Bletchley
+UKXX1332, Hucknall
+UKXX1333, Ballater
+UKXX1334, Turriff
+UKXX1335, Aston Cantlow
+UKXX1336, Barnoldswick
+UKXX1337, Bocking
+UKXX1338, Ferndown
+UKXX1339, Aghagallon
+UKXX1340, Maryport
+UKXX1341, St. Bees
+UKXX1342, Saffron Walden
+UKXX1343, Braintree
+UKXX1344, Brentwood
+UKXX1345, Bures
+UKXX1346, South Croydon
+UKXX1347, Warwick
+UKXX1348, Southam
+UKXX1349, Alfreton
+UKXX1350, Ulceby
+UKXX1351, Loanhead
+UKXX1352, Rosewell
+UKXX1353, Peebles
+UKXX1354, Exmouth
+UKXX1355, Menstrie
+UKXX1356, Lytham St. Annes
+UKXX1357, Bowling
+UKXX1358, Dursley
+UKXX1359, Moreton-in-Marsh
+UKXX1360, Pinner
+UKXX1361, Holmfirth
+UKXX1362, Halifax
+UKXX1363, Leiston
+UKXX1364, Almshouse Green
+UKXX1365, Beauly
+UKXX1366, Kirkhill
+UKXX1367, Invergordon
+UKXX1368, Tain
+UKXX1369, Lairg
+UKXX1370, Newmilns
+UKXX1371, Isle of Arran
+UKXX1372, Thames Ditton
+UKXX1373, Cobham
+UKXX1374, Golspie
+UKXX1375, Windermere
+UKXX1376, Wigston
+UKXX1377, Betws-y-Coed
+UKXX1378, Talsarnau
+UKXX1379, Porthmadog
+UKXX1380, Gaerwen
+UKXX1381, Rhosneigr
+UKXX1382, Belle Vue
+UKXX1383, Failsworth
+UKXX1384, Rochester
+UKXX1385, Muswell Hill
+UKXX1386, New Southgate
+UKXX1387, Bedlington
+UKXX1388, Wellingborough
+UKXX1389, Rushden
+UKXX1390, Fakenham
+UKXX1391, Wells-next-the-Sea
+UKXX1392, Kentish Town
+UKXX1393, Chipping Norton
+UKXX1394, Chinnor
+UKXX1395, Spilsby
+UKXX1396, Auchterarder
+UKXX1397, Kingussie
+UKXX1398, Acharacle
+UKXX1399, Mallaig
+UKXX1400, Ivybridge
+UKXX1401, Oxted
+UKXX1402, Godstone
+UKXX1403, Pulborough
+UKXX1404, Ammanford
+UKXX1405, Llanfyrnach
+UKXX1406, Llandysul
+UKXX1407, Forest Hill
+UKXX1408, Herne Hill
+UKXX1409, Tulse Hill
+UKXX1410, Much Hadham
+UKXX1411, Arlesey
+UKXX1412, Sandy
+UKXX1413, Wilmslow
+UKXX1414, Lymington
+UKXX1415, Uttoxeter
+UKXX1416, Newtown
+UKXX1417, Llanfyllin
+UKXX1418, Sevenoaks
+UKXX1419, Tenterden
+UKXX1420, Robertsbridge
+UKXX1421, Uxbridge
+UKXX1422, Radlett
+UKXX1423, Lichfield
+UKXX1424, Malton
+UKXX1425, Croydon
+UKXX1426, Ealing
+UKXX1427, Lewisham
+UKXX1428, Greenwich
+UKXX1429, Rhondda
+UKXX1430, Gravesend
+UKXX1431, Middleton
+UKXX1432, Lurgan
+UKXX1433, Alcester Lane's End
+UKXX1434, Westbury
+UKXX1435, Yeovil
+UKXX1436, Birkenshaw
+UKXX1437, Bingley
+UKXX1438, Ashton Green
+UKXX1439, Beckenham
+UKXX1440, Wedmore
+UKXX1441, Dungannon
+UKXX1442, Seascale
+UKXX1443, Egremont
+UKXX1444, Beltinge
+UKXX1445, Deal
+UKXX1446, Shipston-on-Stour
+UKXX1447, Sidcup
+UKXX1448, Welling
+UKXX1449, Ilkeston
+UKXX1450, Shildon
+UKXX1451, Crook
+UKXX1452, Tipton
+UKXX1453, Stourbridge
+UKXX1454, Whitechapel
+UKXX1455, Chingford
+UKXX1456, North Woolwich
+UKXX1457, Corstorphine
+UKXX1458, South Queensferry
+UKXX1459, Gullane
+UKXX1460, East Linton
+UKXX1461, Linlithgow
+UKXX1462, Bo'ness
+UKXX1463, Barnstaple
+UKXX1464, Bonnybridge
+UKXX1465, Killin
+UKXX1466, Poulton-le-Fylde
+UKXX1467, Bothwell
+UKXX1468, Tetbury
+UKXX1469, Petersfield
+UKXX1470, Yateley
+UKXX1471, Harrow
+UKXX1472, Beaconsfield
+UKXX1473, Elland
+UKXX1474, Kilwinning
+UKXX1475, Ardrossan
+UKXX1476, Ashtead
+UKXX1477, Buckley Hill
+UKXX1478, Rhayader
+UKXX1479, Llanrwst
+UKXX1480, Fairbourne
+UKXX1481, Llanbedr
+UKXX1482, Ty Croes
+UKXX1483, Agecroft
+UKXX1484, Sale
+UKXX1485, Finchley
+UKXX1486, Finsbury Park
+UKXX1487, Upper Edmonton
+UKXX1488, Hebburn
+UKXX1489, Rowlands Gill
+UKXX1490, Corby
+UKXX1491, Abergavenny
+UKXX1492, Usk
+UKXX1493, Chepstow
+UKXX1494, Beccles
+UKXX1495, Cairndow
+UKXX1496, Sandringham
+UKXX1497, Grantown-on-Spey
+UKXX1498, Corrour
+UKXX1499, Launceston
+UKXX1500, Lifton
+UKXX1501, Lostwithiel
+UKXX1502, St. Austell
+UKXX1503, Blisland
+UKXX1504, Boscastle
+UKXX1505, Emsworth
+UKXX1506, East Cowes
+UKXX1507, Hungerford
+UKXX1508, Horley
+UKXX1509, Abernant
+UKXX1510, Cardigan
+UKXX1511, Narberth
+UKXX1512, Cheadle
+UKXX1513, Somerton
+UKXX1514, Martock
+UKXX1515, Wadhurst
+UKXX1516, Newton Abbot
+UKXX1517, Penryn
+UKXX1518, Yarm
+UKXX1519, Brentford
+UKXX1520, Feltham
+UKXX1521, Evesham
+UKXX1522, Bridgnorth
+UKXX1523, Tyneside
+UKXX1524, Royal Tunbridge Wells
+UKXX1525, Royal Leamington Spa
+UKXX1526, Worsley
+UKXX1527, Morley
+UKXX1528, Urmston
+UKXX1529, Leighton-Linslade
+UKXX1530, Hatfield
+UKXX1531, Chapeltown
+UKXX1532, Gosforth
+UKXX1533, Batterdale
+UKXX1534, Studley
+UKXX1535, Castle Cary
+UKXX1536, Wareham
+UKXX1537, Hailsham
+UKXX1538, Banwell
+UKXX1539, Aldergrove
+UKXX1540, Ballymena
+UKXX1541, Barclose
+UKXX1542, Ferndale
+UKXX1543, Cowbridge
+UKXX1544, Bargoed
+UKXX1545, Flint
+UKXX1546, Ellesmere Port
+UKXX1547, Stansted
+UKXX1548, Purley
+UKXX1549, Stratford-upon-Avon
+UKXX1550, Nantwich
+UKXX1551, Northwich
+UKXX1552, Chester le Street
+UKXX1553, Consett
+UKXX1554, Goole
+UKXX1555, Stourport-on-Severn
+UKXX1556, Plaistow
+UKXX1557, Lasswade
+UKXX1558, Haddington
+UKXX1559, Bathgate
+UKXX1560, Broxburn
+UKXX1561, Enfield
+UKXX1562, Ottery St. Mary
+UKXX1563, Seaton
+UKXX1564, Bideford
+UKXX1565, Stirling
+UKXX1566, Crianlarich
+UKXX1567, Wotton-under-Edge
+UKXX1568, Bromyard
+UKXX1569, Isle of North Uist
+UKXX1570, Hessle
+UKXX1571, Aldeburgh
+UKXX1572, Thetford
+UKXX1573, Fortrose
+UKXX1574, Ardgay
+UKXX1575, Bootle
+UKXX1576, Blacklow Brow
+UKXX1577, Barrow-in-Furness
+UKXX1578, Dalton-in-Furness
+UKXX1579, Lutterworth
+UKXX1580, Denbigh
+UKXX1581, Dolwyddelan
+UKXX1582, Dolgellau
+UKXX1583, Faversham
+UKXX1584, Stony Stratford
+UKXX1585, Holloway
+UKXX1586, North Shields
+UKXX1587, Chathill
+UKXX1588, Southwell
+UKXX1589, Ebbw Vale
+UKXX1590, Cwmbran
+UKXX1591, Kinsbury
+UKXX1592, Wantage
+UKXX1593, Witney
+UKXX1594, Tighnabruaich
+UKXX1595, Inveraray
+UKXX1596, March
+UKXX1597, Chatteris
+UKXX1598, Looe
+UKXX1599, Par
+UKXX1600, Seaview
+UKXX1601, Forest Row
+UKXX1602, Dagenham
+UKXX1603, Tilbury
+UKXX1604, Mexborough
+UKXX1605, Llanybydder
+UKXX1606, Goodwick
+UKXX1607, Henlow
+UKXX1608, Hyde
+UKXX1609, Stanford-le-Hope
+UKXX1610, Leek
+UKXX1611, Stafford
+UKXX1612, Malpas
+UKXX1613, Burnham-on-Sea
+UKXX1614, Westerham
+UKXX1615, Salcombe
+UKXX1616, St. Agnes
+UKXX1617, St. Columb
+UKXX1618, Hayle
+UKXX1619, Marton Grove
+UKXX1620, Battersby
+UKXX1621, Twickenham
+UKXX1622, Lymm
+UKXX1623, Knutsford
+UKXX1624, Castleford
+UKXX1625, Knottingley
+UKXX1626, Mirfield
+UKXX1627, Willenhall
+UKXX1628, Weston-super-Mare
+UKXX1629, Strood
+UKXX1630, Locks Heath
+UKXX1631, Thornaby-on-Tees
+UKXX1632, Hawarden
+UKXX1633, Laurencekirk
+UKXX1634, Alford
+UKXX1635, Keith
+UKXX1636, Buckie
+UKXX1637, Cradley Heath
+UKXX1638, Sutton Coldfield
+UKXX1639, Ashlands
+UKXX1640, Redditch
+UKXX1641, Glastonbury
+UKXX1642, Frome
+UKXX1643, Beckfoot
+UKXX1644, Bartom's Hill
+UKXX1645, Swanage
+UKXX1646, Astley Bridge
+UKXX1647, Bannings Vale
+UKXX1648, Steyning
+UKXX1649, Bromley
+UKXX1650, Antrim
+UKXX1651, Beckermet
+UKXX1652, Haverhill
+UKXX1653, Porth
+UKXX1654, Aberdare
+UKXX1655, Mountain Ash
+UKXX1656, Adisham
+UKXX1657, Birchington
+UKXX1658, Forfar
+UKXX1659, Matlock
+UKXX1660, Barrow-upon-Humber
+UKXX1661, Sherborne
+UKXX1662, Brierley Hill
+UKXX1663, Prestonpans
+UKXX1664, Tranent
+UKXX1665, Cullompton
+UKXX1666, Blakeney
+UKXX1667, Longhope
+UKXX1668, Badgeworth
+UKXX1669, Blackdown
+UKXX1670, Hindhead
+UKXX1671, Brough
+UKXX1672, Buckhurst Hill
+UKXX1673, Galston
+UKXX1674, Walton-on-Thames
+UKXX1675, West Byfleet
+UKXX1676, Thurso
+UKXX1677, Kelty
+UKXX1678, Anstruther
+UKXX1679, Prescot
+UKXX1680, Broughton-in-Furness
+UKXX1681, Market Harborough
+UKXX1682, Ruthin
+UKXX1683, St. Asaph
+UKXX1684, Talybont
+UKXX1685, Harlech
+UKXX1686, Garndolbenmaen
+UKXX1687, Llanfairpwllgwyngyll
+UKXX1688, Rhosgoch
+UKXX1689, Market Rasen
+UKXX1690, Abbey Hey
+UKXX1691, Sheerness
+UKXX1692, Highbury
+UKXX1693, Lower Edmonton
+UKXX1694, Palmers Green
+UKXX1695, Newcastle upon Tyne
+UKXX1696, Washington
+UKXX1697, Watlington
+UKXX1698, Erskine
+UKXX1699, Port Glasgow
+UKXX1700, St. Neots
+UKXX1701, Boston
+UKXX1702, Pitlochry
+UKXX1703, Invergarry
+UKXX1704, Camelford
+UKXX1705, Almodington
+UKXX1706, Purfleet
+UKXX1707, Neath
+UKXX1708, Lampeter
+UKXX1709, Elmers End
+UKXX1710, Riverside
+UKXX1711, Baldock
+UKXX1712, Marlow
+UKXX1713, Devizes
+UKXX1714, Corsham
+UKXX1715, Chippenham
+UKXX1716, Stone
+UKXX1717, Kelso
+UKXX1718, Shifnal
+UKXX1719, Bexhill-on-Sea
+UKXX1720, Teignmouth
+UKXX1721, West Drayton
+UKXX1722, Bushey
+UKXX1723, Bessingby
+UKXX1724, Pickering
+UKXX1725, Hackney
+UKXX1726, Hammersmith
+UKXX1727, Guildford
+UKXX1728, Greenock
+UKXX1729, Frimley
+UKXX1730, Bridgend
+UKXX1731, Thornaby
+UKXX1732, Hindley
+UKXX1733, West Bromwich
+UKXX1734, Barston
+UKXX1735, Shepton Mallet
+UKXX1736, Back O'bowley
+UKXX1737, Nelson
+UKXX1738, Hove
+UKXX1739, Henfield
+UKXX1740, Clevedon
+UKXX1741, Workington
+UKXX1742, Prenton
+UKXX1743, Wirral
+UKXX1744, Halstead
+UKXX1745, Coulsdon
+UKXX1746, Thornton Heath
+UKXX1747, Sandwich
+UKXX1748, Greenhithe
+UKXX1749, Roslin
+UKXX1750, Crediton
+UKXX1751, Arlington
+UKXX1752, Coleford
+UKXX1753, Cottingham
+UKXX1754, Dornoch
+UKXX1755, Cupar
+UKXX1756, Halewood
+UKXX1757, Arkholme
+UKXX1758, Moelfre
+UKXX1759, Marianglas
+UKXX1760, Tyn-y-Gongl
+UKXX1761, Tadcaster
+UKXX1762, Dunstable
+UKXX1763, Carluke
+UKXX1764, Islington
+UKXX1765, Blackwood
+UKXX1766, Todmorden
+UKXX1767, Wisbech
+UKXX1768, Blairgowrie
+UKXX1769, Tadley
+UKXX1770, Burgess Hill
+UKXX1771, Gerrards Cross
+UKXX1772, Wallington
+UKXX1773, Melksham
+UKXX1774, Romsey
+UKXX1775, Rochford
+UKXX1776, Ellesmere
+UKXX1777, Bow Street
+UKXX1778, Ashcott
+UKXX1779, Montacute
+UKXX1780, Crowborough
+UKXX1781, Uckfield
+UKXX1782, Teddington
+UKXX1783, Runcorn
+UKXX1784, Newton-le-Willows
+UKXX1785, Skelmersdale
+UKXX1786, Burntwood
+UKXX1787, Tower Hamlets
+UKXX1788, Denton
+UKXX1789, Hitchin
+UKXX1790, Central Milton Keynes
+UKXX1791, Richmond (North Yorkshire)
+UKXX1792, Newport (Isle of Wight)
+UKXX1793, Whitchurch
+UKXX1794, Newport (Dyfed)
+UKXX1795, Alresford
+UKXX1796, Whitchurch (Shropshire)
+UKXX1797, Newport (Shropshire)
+UKXX1798, Richmond
+UKXX1799, Bow
+UKXX1800, Dalston
+UKXX1801, Abbey Wood
+UKXX1802, Blackheath
+UKXX1803, Brockley
+UKXX1804, Camberwell
+UKXX1805, Catford
+UKXX1806, Charlton
+UKXX1807, Deptford
+UKXX1808, Eltham
+UKXX1809, Lambeth
+UKXX1810, Lee
+UKXX1811, Hither Green
+UKXX1812, New Cross
+UKXX1813, Peckham
+UKXX1814, Rotherhithe
+UKXX1815, Walworth
+UKXX1816, Woolwich
+UKXX1817, Crystal Palace
+UKXX1818, Anerly
+UKXX1819, Dulwich
+UKXX1820, East Dulwich
+UKXX1821, Brixton
+UKXX1822, Chelsea
+UKXX1823, Clapham
+UKXX1824, Earl's Court
+UKXX1825, Fulham
+UKXX1826, South Kensington
+UKXX1827, South Lambeth
+UKXX1828, Stockwell
+UKXX1829, West Brompton
+UKXX1830, Battersea
+UKXX1831, Balham
+UKXX1832, Barnes
+UKXX1833, Mortlake
+UKXX1834, Putney
+UKXX1835, Streatham
+UKXX1836, Tooting
+UKXX1837, Earlsfield
+UKXX1838, Wimbledon
+UKXX1839, South Wimbledon
+UKXX1840, Paddington
+UKXX1841, Acton
+UKXX1842, Chiswick
+UKXX1843, Hanwell
+UKXX1844, Kensington
+UKXX1845, Maida Hill
+UKXX1846, Ladbroke Grove
+UKXX1847, Notting Hill
+UKXX1848, Shepherd's Bush
+UKXX1849, West Ealing
+UKXX1850, West Kensington
+UKXX1851, Ely
+UKXX1852, Neston
+UKXX1853, Epping
+UKXX1854, Newcastle
+UKXX1855, Dorchester
+UKXX1856, Halesworth
+UKXX1857, Dingwall
+UKXX1858, Halkirk
+UKXX1859, Askam-in-Furness
+UKXX1860, Hexham
+UKXX1861, Dereham
+UKXX1862, Bridge of Weir
+UKXX1863, Bridge of Orchy
+UKXX1864, Huntingdon
+UKXX1865, Crieff
+UKXX1866, Hook
+UKXX1867, Dorking
+UKXX1868, Hornchurch
+UKXX1869, Hope Valley
+UKXX1870, Haverfordwest
+UKXX1871, Hertford
+UKXX1872, High Peak
+UKXX1873, Duns
+UKXX1874, Cranbrook
+UKXX1875, Helston
+UKXX1876, Hayes
+UKXX1877, Kings Langley
+UKXX1878, Berwick
+UKXX1879, Cornwall
+UKXX1880, Humber
+UKXX1881, Isle of Wight
+UKXX1882, Lancashire
+UKXX1883, Norfolk
+UKXX1884, Tyne
+UKXX1885, Everton
+UKXX1886, Hampshire Downs
+UKXX1887, Wembury
+UKXX1888, Warkworth
+UKXX1889, Northumberland
+UKXX1890, Llanddwyn
+UKXX1891, Isle of Anglesey
+UKXX1892, Avon
+UKXX1893, Gwynedd
+UKXX1894, Kent
+UKXX1895, Glenshee
+UKXX1896, Tomintoul
+UKXX1897, Benbecula
+UKXX1898, Biggin Hill
+UKXX1899, Gatwick
+UKXX1900, Lydd
+UKXX1901, Woodhall
+UKXX1903, Sunningdale
+UKXX1904, St. Annes
+UKXX1905, Compton Bay
+UKXX1906, Benone
+UKXX1907, Durdle Door
+UKXX1910, Diss
+UKXX1915, Castle Combe
+UKXX1916, Silverstone
+UKXX1917, Rockingham
+UKXX2001, Aspatria
+UKXX2002, Cranwell
+UKXX2003, Ballypatrick Forest
+UKXX2004, Shap
+UKXX2007, Lochluichart
+UKXX2008, Tulloch Bridge
+UKXX2009, Trawscoed
+UKXX2010, Cardinham
+UKXX2011, Lough Fea
+UKXX2012, Andrewsfield
+UKXX2013, Saint Athan
+UKXX2015, Capel Curig
+UKXX2016, Pembrey Sands
+UKXX2018, Corgary
+UKXX2019, Charterhall
+UKXX2020, Scampton
+UKXX2021, Ballykelly
+UKXX2022, Waterstein
+UKXX2023, Carterhouse
+UKXX2024, Bangor
+UKXX2025, Aberdaron
+UKXX2027, Middle Wallop
+UKXX2028, Thorney Island
+UKXX2029, Holbeach
+UKXX2030, Spadeadam
+UKXX2031, Drumalbin
+UKXX2032, Locharron
+UKXX2033, Aultbea
+UKXX2034, Coltishall
+UKXX2035, Disforth
+UKXX2036, Fife Ness
+UKXX2037, Gogerbank
+UKXX2038, Sennybridge
+UKXX2039, Aonach Mor
+UKXX2040, Strathallan
+UKXX2042, Kenley
+UKXX2043, Shobdon
+UKXX2044, Little Rissington
+UKXX2045, Portglenone
+UKXX2046, Dundrennan
+UKXX2047, Leconfield
+UKXX2048, Benson
+UKXX2049, Muckle Holm
+UKXX2050, Barbourne
+UKXX2051, Boscombe Down
+UKXX2052, Baltasound
+UKXX2053, Langdon Bay
+UKXX2054, Loch Glascanoch
+UKXX2055, Glenlivet
+UKXX2056, Foula
+UKXX2057, Inverbervie
+UKXX2058, Glen Ogle
+UKXX2059, Walney Island
+UKXX2060, Larkhill
+UKXX2061, Odiham
+UKXX2062, Cairnwell
+UKXX2063, Church Lawford
+UKXX2065, Rackwick
+UKXX2066, Fair Isle
+UKXX2067, Machrihanish
+UKXX2068, Boltshope Park
+UKXX2069, Fylingdales
+UKXX2070, Great Dun Fell
+UKXX2071, Saughall
+UKXX2072, Sella Ness
+UKXX2073, Mumbles
+UKXX2074, Drumburgh
+UKXX2075, Linton-on-ouse
+UKXX2076, Sule Skerry
+UKXX2077, Shoeburyness
+UKXX2078, Donna Nook
+UKXX2080, Emley Moor
+UKXX2081, Topcliffe
+UKXX2082, Saint Angelo
+UKXX2083, Foyers
+UKXX2084, Liscombe
+UKXX2085, St. Catherine's Point
+UKXX2086, Galloway
+UKXX2087, Ayrshire
+UKXX2088, Arran
+UKXX2089, Argyll
+UKXX2090, Tweedale
+UKXX2091, Ross Shire
+UKXX2092, Aintree
+UKXX2093, Down Royal
+UKXX2094, Goodwood
+UKXX2095, Haydock Park
+UKXX2096, Kempton Park
+UKXX2098, Beverly
+UKXX2099, Stourport
+UKXX3000, Voe
+UKXX3001, Church Fenton
+UKXX3002, Kilmory
+UKXX3010, St. Ives Cambridgeshire
+
+#+end_example
