@@ -66,10 +66,8 @@ def main():
         print "%s\n---\n High: %s Low: %s %s\n" % (day['Day'], day['High'], day['Low'], day['Text'])
 
 
-    geo = dom.getElementsByTagName('geo')
-    for location in geo:
-      print location.attributes['lat'].value
-      print location.attributes['long'].value
+
+    print "lat: %s long %s " % (dom.getElementsByTagName('geo:lat')[0].firstChild.data, dom.getElementsByTagName('geo:long')[0].firstChild.data)
 
     # Get sunrise and sunset data.
     astro = dom.getElementsByTagName('yweather:astronomy')
